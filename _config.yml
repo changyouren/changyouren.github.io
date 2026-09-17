@@ -27,10 +27,10 @@ author:
   name             : "Zhaobing Liu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Wuhan,Hubei,China"
   employer         : "Wuhan University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhaobingliu@whut.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Zhaobing-Liu?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
